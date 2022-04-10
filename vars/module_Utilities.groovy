@@ -1,4 +1,5 @@
 #!/usr/bin/env groovy
+// DOESN'T WORK DISREGARD
 import groovy.json.JsonSlurperClassic
  
 Map parseJSONString(String json) {
